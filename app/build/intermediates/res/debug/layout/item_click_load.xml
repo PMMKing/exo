@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/lm_view_more"
+    android:textColor="@color/common_color_black"
+    android:textSize="@dimen/text_h18"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:minHeight="?android:attr/listPreferredItemHeight"
+    android:padding="5dp"
+    android:text="查看更多" >
+</TextView><!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/item_click_load.xml -->

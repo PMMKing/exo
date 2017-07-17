@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/t_bg">
+
+    <ListView
+        android:id="@+id/list"
+        android:background="@color/common_color_white"
+        android:layout_width="fill_parent"
+        android:dividerHeight="0.5dp"
+        android:divider="@color/t_bg"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:background="@color/t_bg"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:id="@+id/ll_add"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:layout_marginLeft="10dp"
+            android:layout_width="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_height="30dp"
+            android:src="@drawable/icon_add_normal" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:textSize="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="添加小区" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="16dp"
+            android:layout_height="16dp"
+            android:layout_marginRight="10dp"
+            android:src="@drawable/icon_domo" />
+    </LinearLayout>
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="14dp"
+        android:textColor="@color/common_color_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:text="最多只能添加5个小区,可以先删除（长按删除），再添加" />
+
+</LinearLayout>

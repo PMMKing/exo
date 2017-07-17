@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_group_details.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_group_details.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_pick_contact_no_checkbox.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_pick_contact_no_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_door.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_door.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_video.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_video.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_expression.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_expression.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_commom_back_btn.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_commom_back_btn.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_login.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_login.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_context_menu_for_video.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_context_menu_for_video.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_auth.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_auth.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_choose_griditem.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_choose_griditem.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_groups.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_groups.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_chat.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_chat.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/item_click_load.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/item_click_load.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_choosevideoactivity.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_choosevideoactivity.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_com_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_com_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_my_rec_auth_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_my_rec_auth_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_about.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_about.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_expression_gridview.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_expression_gridview.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_contact_list.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_contact_list.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_register.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_register.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_main_init_view.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_main_init_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_logout_actionsheet.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_logout_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_contact.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_video_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_video_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_com_select.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_com_select.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_new_friends_msg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_new_friends_msg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_video_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_video_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_auth_detail.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_auth_detail.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/item_failed.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/item_failed.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_service.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_service.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_picture.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_picture.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_voice_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_offline_push.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_offline_push.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_auth_list.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_auth_list.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_context_menu_for_text.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_context_menu_for_text.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_auth.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_auth.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_main.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_message.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_message.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_diagnose.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_diagnose.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_add_contact.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_add_contact.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/item_loading.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/item_loading.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_context_menu_for_location.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_context_menu_for_location.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_msg_detail.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_msg_detail.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/loading_dialog_new.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/loading_dialog_new.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_group.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_group.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_community_detail.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_community_detail.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_context_menu_for_image.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_context_menu_for_image.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_listview_footer_view.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_listview_footer_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_file.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_file.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_conversation_history.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_conversation_history.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_city.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_city.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_voice.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_voice.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_search_bar.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_search_bar.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_new_group.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_new_group.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_public_groups.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_public_groups.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_add_group.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_add_group.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_public_groups_search.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_public_groups_search.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_com.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_com.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_location.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_location.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_black_list.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_black_list.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_msg_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_msg_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_contact_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_contact_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_auth_list_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_auth_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_group_blacklist.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_group_blacklist.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_conversation_settings.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_conversation_settings.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_showvideo_activity.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_showvideo_activity.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_splash.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_emojicon.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_emojicon.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_my.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_my.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_grid.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_grid.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_chat_neterror_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_chat_neterror_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_null.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_null.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_chat_history.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_chat_history.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/tip_dialog.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/tip_dialog.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_voice_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_voice_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_demo.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_demo.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_contact_with_checkbox.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_contact_with_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_msg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_msg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_image_grid_fragment.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_image_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_location.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_location.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_show_big_image.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_show_big_image.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_edit.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_edit.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_message.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_message.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_add_contact.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_add_contact.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_context_menu_for_voice.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_context_menu_for_voice.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_group_pick_contacts.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_group_pick_contacts.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_video_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_video_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_com_select_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_com_select_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_voice.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_voice.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_my_auth_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_my_auth_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_video.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_video.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_alert_dialog.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_sent_file.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_sent_file.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_auth_alert_dialog.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_auth_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_show_file.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_show_file.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_voice_call.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_voice_call.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_privte_setting.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_privte_setting.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/view_charge_header.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/view_charge_header.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_test.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_test.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_main_botton_tab.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_main_botton_tab.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_fragment_chatroom.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_fragment_chatroom.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_my_auth_list.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_my_auth_list.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_contact.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_contact.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_search_bar_with_padding.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_invite_msg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_invite_msg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_group_simle_details.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_group_simle_details.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/title_bar.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_row_received_picture.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_row_received_picture.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_activity_baidumap.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_activity_baidumap.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/loading_dialog.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/layout/z_recorder_activity.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/layout/z_recorder_activity.xml"
+    }
+]

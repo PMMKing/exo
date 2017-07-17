@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- adapter用的viewType 用于setTag -->
+    <item name="view_type" type="id"/>
+    <item name="mod_usercenter" type="id"/>
+    <item name="mod_more" type="id"/>
+    <item name="realtabcontent" type="id"/>
+
+</resources>

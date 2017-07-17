@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:color="@color/t_theme" />
+    <item android:color="@android:color/white" />
+</selector>
+<!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/color/botton_text_color.xml -->

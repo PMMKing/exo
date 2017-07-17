@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_y"
+    android:orientation="vertical"
+    android:padding="@dimen/indicator_internal_padding" >
+    
+    <ImageView 
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="70dp"
+        android:src="@drawable/logo_uidemo"/>
+    
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_color_gray"
+        android:text="@string/app_name"
+        android:textSize="@dimen/text_h18"/>
+    <TextView 
+        android:id="@+id/tv_var"
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_color_gray"
+        android:text="版本：1.01"
+        android:textSize="@dimen/text_h18"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        />
+    <TextView 
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_color_gray"
+        android:text="@string/app_ip"
+        android:layout_margin="10dp"
+        android:textSize="@dimen/text_h16"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_color_gray"
+        android:text="@string/app_com"
+        android:layout_marginBottom="5dp"
+        android:textSize="@dimen/text_h16"/>
+    <TextView 
+        android:layout_width="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_height="wrap_content"
+        android:textColor="@color/common_color_gray"
+        android:text="Copyright@2015  AllRight Reserved"
+        android:layout_marginBottom="10dp"
+        android:textSize="@dimen/text_h14"/>
+
+</LinearLayout>

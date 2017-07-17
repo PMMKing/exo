@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/t_bg"
+    android:layout_height="match_parent">
+    <ListView
+        android:id="@+id/list"
+        android:background="@color/common_color_white"
+        android:layout_width="match_parent"
+        android:dividerHeight="0.5dp"
+        android:divider="@color/t_bg"
+        android:layout_height="match_parent" />
+
+</FrameLayout><!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/activity_msg.xml -->

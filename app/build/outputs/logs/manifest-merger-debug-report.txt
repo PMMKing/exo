@@ -1,0 +1,605 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:2:1-345:12
+	package
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.0.1] /Users/dzc/que/code/exo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:12:22-69
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:13:22-63
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:16:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:19:5-84
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:19:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:22:5-76
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:22:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:23:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:24:22-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:25:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:26:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:28:22-68
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:29:5-74
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:29:22-71
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:30:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:31:22-77
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:32:5-85
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:32:22-82
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:33:5-75
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:33:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:34:22-70
+application
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:36:5-343:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/dzc/que/code/exo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:41:9-41
+	android:allowBackup
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:38:9-35
+	android:icon
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:37:9-44
+activity#com.haolb.client.activity.MainActivity2
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:42:9-47:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:45:13-49
+	android:launchMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:44:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:47:13-52
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:46:13-44
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:43:13-51
+activity#com.haolb.client.activity.LoginAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:48:9-52:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:50:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:52:13-52
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:51:13-44
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:49:13-46
+activity#com.haolb.client.activity.CommunityAuthAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:53:9-57:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:55:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:57:13-52
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:54:13-54
+activity#com.haolb.client.activity.CityListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:58:9-61:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:61:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:59:13-49
+activity#com.haolb.client.activity.SearchContactListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:62:9-65:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:64:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:65:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:63:13-58
+activity#com.haolb.client.activity.MyInfo
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:66:9-69:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:68:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:69:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:67:13-44
+activity#com.haolb.client.activity.MessageDetailAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:70:9-73:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:72:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:71:13-54
+activity#com.haolb.client.activity.AuthAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:74:9-77:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:76:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:77:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:75:13-45
+activity#com.haolb.client.activity.AuthListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:78:9-81:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:80:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:81:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:79:13-49
+activity#com.haolb.client.activity.ContactListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:82:9-85:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:84:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:85:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:83:13-52
+activity#com.haolb.client.activity.MyAuthSendAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:86:9-89:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:88:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:89:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:87:13-51
+activity#com.haolb.client.activity.MyAuthRecAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:90:9-93:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:92:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:93:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:91:13-50
+activity#com.haolb.client.activity.CommunityListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:94:9-99:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:96:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:99:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:95:13-54
+activity#com.haolb.client.activity.CommunityDetailAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:100:9-104:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:102:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:104:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:101:13-56
+activity#com.haolb.client.activity.CommunityComListAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:105:9-108:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:107:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:108:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:106:13-57
+activity#com.haolb.client.activity.AboutAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:109:9-113:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:111:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:113:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:110:13-46
+activity#com.haolb.client.activity.XieYiAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:114:9-118:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:116:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:118:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:115:13-46
+activity#com.haolb.client.activity.ServiceAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:119:9-122:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:121:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:122:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:120:13-48
+activity#com.haolb.client.activity.FeedBackAct
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:123:9-128:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:128:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:125:13-49
+activity#com.haolb.client.activity.SplashActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:131:9-140:20
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:134:13-49
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:133:13-44
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:132:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:135:13-139:29
+action#android.intent.action.MAIN
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:136:17-69
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:136:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:138:17-77
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:138:27-74
+activity#com.haolb.client.activity.easemob.LoginActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:143:9-147:71
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:145:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:147:13-68
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:144:13-59
+activity#com.haolb.client.activity.easemob.RegisterActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:150:9-153:71
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:152:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:153:13-68
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:151:13-62
+activity#com.haolb.client.activity.ChatActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:155:9-159:58
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:158:13-49
+	android:launchMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:157:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:159:13-55
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:156:13-50
+activity#com.haolb.client.activity.easemob.AddContactActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:161:9-164:58
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:163:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:164:13-55
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:162:13-64
+activity#com.haolb.client.activity.easemob.GroupDetailsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:166:9-168:52
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:168:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:167:13-66
+activity#com.haolb.client.activity.easemob.GroupsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:170:9-174:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:172:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:174:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:171:13-60
+activity#com.haolb.client.activity.easemob.ChatRoomActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:176:9-180:55
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:178:12-48
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:180:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:177:13-62
+activity#com.haolb.client.activity.easemob.ChatRoomDetailsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:182:9-184:52
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:184:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:183:13-69
+activity#com.haolb.client.activity.easemob.NewGroupActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:187:9-191:64
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:189:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:191:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:188:13-62
+activity#com.haolb.client.activity.easemob.ExitGroupDialog
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:193:9-196:67
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:195:13-49
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:196:13-55
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:194:13-61
+activity#com.haolb.client.activity.easemob.GroupPickContactsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:198:9-202:64
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:200:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:202:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:199:13-71
+activity#com.haolb.client.activity.easemob.BaiduMapActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:204:9-206:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:206:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:205:13-62
+activity#com.haolb.client.activity.easemob.NewFriendsMsgActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:209:9-211:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:211:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:210:13-67
+activity#com.haolb.client.activity.easemob.ForwardMessageActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:213:9-217:64
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:215:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:217:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:214:13-68
+activity#com.haolb.client.activity.easemob.ContextMenu
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:219:9-222:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:221:13-49
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:222:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:220:13-57
+activity#com.haolb.client.activity.easemob.AlertDialog
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:224:9-227:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:226:13-49
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:227:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:225:13-57
+activity#com.haolb.client.activity.easemob.ShowBigImage
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:229:9-231:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:231:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:230:13-58
+activity#com.haolb.client.activity.easemob.ShowNormalFileActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:233:9-235:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:235:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:234:13-68
+activity#com.haolb.client.activity.easemob.BlacklistActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:237:9-239:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:239:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:238:13-63
+activity#com.haolb.client.activity.easemob.PublicGroupsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:242:9-246:64
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:244:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:246:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:243:13-66
+activity#com.haolb.client.activity.easemob.PublicChatRoomsActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:248:9-252:64
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:250:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:252:13-52
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:249:13-69
+activity#com.haolb.client.activity.easemob.VoiceCallActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:255:9-258:60
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:257:13-49
+	android:theme
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:258:13-48
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:256:13-63
+activity#com.haolb.client.activity.easemob.VideoCallActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:260:9-263:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:263:13-49
+	android:configChanges
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:262:13-74
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:261:13-63
+activity#com.haolb.client.activity.easemob.GroupSimpleDetailActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:265:9-267:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:267:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:266:13-71
+activity#com.haolb.client.activity.easemob.GroupBlacklistActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:269:9-271:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:271:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:270:13-68
+activity#com.haolb.client.activity.easemob.PublicGroupsSeachActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:272:9-274:61
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:274:13-49
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:273:13-71
+activity#com.haolb.client.activity.easemob.EditActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:275:9-279:67
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:277:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:279:13-55
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:276:13-58
+activity#com.haolb.client.activity.easemob.ShowVideoActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:280:9-284:72
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:282:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:284:13-60
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:281:13-63
+activity#com.haolb.client.activity.easemob.ImageGridActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:286:9-290:72
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:288:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:290:13-60
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:287:13-63
+activity#com.haolb.client.activity.easemob.RecorderVideoActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:291:9-295:72
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:293:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:295:13-60
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:292:13-67
+activity#com.haolb.client.activity.easemob.DiagnoseActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:297:9-301:72
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:299:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:301:13-60
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:298:13-62
+activity#com.haolb.client.activity.easemob.OfflinePushNickActivity
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:304:9-308:72
+	android:screenOrientation
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:306:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:308:13-60
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:305:13-69
+receiver#com.easemob.chat.StartServiceReceiver
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:311:9-318:20
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:311:19-71
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.LAUNCHER
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:312:13-317:29
+	android:priority
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:312:28-51
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:313:17-79
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:313:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:314:17-82
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:314:25-79
+meta-data#EASEMOB_APPKEY
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:321:9-323:44
+	android:value
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:323:13-41
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:322:13-42
+service#com.easemob.chat.EMChatService
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:325:9-66
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:325:18-63
+service#com.baidu.location.f
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:328:9-331:41
+	android:enabled
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:330:13-35
+	android:process
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:331:13-38
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:329:13-48
+meta-data#UMENG_APPKEY
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:333:9-335:66
+	android:value
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:335:13-53
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:334:13-40
+meta-data#UMENG_CHANNEL
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:336:9-339:21
+	android:value
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:338:13-34
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:337:13-41
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:340:9-342:64
+	android:value
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:342:13-61
+	android:name
+		ADDED from /Users/dzc/que/code/exo/app/src/main/AndroidManifest.xml:341:13-52

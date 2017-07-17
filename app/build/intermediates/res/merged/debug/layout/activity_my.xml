@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/t_bg"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:background="@color/t_bg">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:padding="10dp"
+            android:id="@+id/ll_my">
+
+            <ImageView
+                android:layout_width="55dp"
+                android:layout_height="55dp"
+                android:id="@+id/image_header" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginLeft="10dp">
+
+                <TextView
+                    android:textSize="16dp"
+                    android:textColor="@color/common_color_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="张三"
+                    android:id="@+id/tv_name" />
+
+                <TextView
+                    android:textSize="16dp"
+                    android:textColor="@color/common_color_black"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1581150804"
+                    android:id="@+id/tv_phone" />
+
+            </LinearLayout>
+
+            <ImageView
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:layout_marginTop="16dp"
+            android:padding="10dp"
+            android:id="@+id/ll_address">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_community" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="我的小区" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/common_color_gray"
+                android:layout_width="0dp"
+                android:gravity="right"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:ellipsize="end"
+                android:layout_height="wrap_content"
+                android:text="空"
+                android:id="@+id/tv_address" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:id="@+id/ll_shouquan">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_send" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="授权管理" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="10dp"
+            android:background="@color/common_color_white"
+            android:layout_height="0.5dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:id="@+id/ll_jieshou">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_get" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="授权列表" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="14dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:id="@+id/ll_feedback">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_feedback" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="意见反馈" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="10dp"
+            android:background="@color/common_color_white"
+            android:layout_height="0.5dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:padding="10dp"
+            android:id="@+id/ll_share">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_friends" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="邀请好友" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="10dp"
+            android:background="@color/common_color_white"
+            android:layout_height="0.5dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@drawable/selector"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="16dp"
+            android:padding="10dp"
+            android:id="@+id/ll_about">
+
+            <ImageView
+                android:layout_width="22dp"
+                android:layout_height="22dp"
+                android:src="@drawable/user_icon_about" />
+
+            <TextView
+                android:textSize="16dp"
+                android:layout_marginLeft="16dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="关于我们" />
+
+            <ImageView
+
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:src="@drawable/icon_domo" />
+        </LinearLayout>
+
+        <Button
+            style="@style/t_btn"
+            android:id="@+id/btn_ext"
+            android:layout_width="match_parent"
+            android:textSize="16dp"
+            android:gravity="center"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content"
+            android:text="退出登录" />
+
+
+    </LinearLayout>
+</ScrollView>

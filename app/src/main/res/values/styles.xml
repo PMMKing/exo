@@ -1,0 +1,38 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="t_btn" parent="android:Widget.Button">
+        <item name="android:background">@drawable/button_theme_bg_selector</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textColor">@color/botton_text_color</item>
+    </style>
+
+    <style name="MProgressDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@drawable/transparent</item>
+    </style>
+
+
+    <style parent="android:Widget"  name="atom_flight_special_TabLeft">
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/atom_flight_segmented_button_left_selector</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingLeft">22dp</item>
+        <item name="android:paddingRight">22dp</item>
+        <item name="android:textColor">@color/atom_flight_tab_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+    <style parent="android:Widget"  name="atom_flight_special_TabRight">
+        <item name="android:button">@null</item>
+        <item name="android:background">@drawable/atom_flight_segmented_button_right_selector</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:paddingLeft">22dp</item>
+        <item name="android:paddingRight">22dp</item>
+        <item name="android:textColor">@color/atom_flight_tab_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+</resources>

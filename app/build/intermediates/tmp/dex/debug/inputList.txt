@@ -1,0 +1,9 @@
+D:\tracy\work\pro\haolb_2\app\build\intermediates\classes\debug
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-b279205943a6bb1ef43fc74acbcaf2bfd3e6d60a.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-3f1e5fd1a9462bff2f92da83df12986139218f76.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-1b2cba00aeedae0b5e704f8123403c0a5012bfba.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\locSDK_3.3-f332e29b8606fbc30a58fbf545a0bf38718e7113.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.5.3-c7af17afa00eede7b2e4dd0c0847f22d8456d535.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\classes-dbbbbc327b4a0236d62cab6b6b2122f857b9876b.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\easemobchat_2.1.9-5994f3fafb52e34505593916e736f3ccb578cea7.jar
+D:\tracy\work\pro\haolb_2\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-aff839c35d2e37558dacdf99774a6e175bc4f321.jar

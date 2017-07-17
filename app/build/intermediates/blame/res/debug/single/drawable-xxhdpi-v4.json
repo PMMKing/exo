@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_home_bg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/tab_home_bg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_theme_bg_selector.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/button_theme_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selector2.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/selector2.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selector.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/selector.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selector_checkbox.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/selector_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bottom_selector_item.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/bottom_selector_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_write_bg_selector.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/bg_write_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selector_auth.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/selector_auth.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_guard_bg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/tab_guard_bg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tab_me_bg.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/tab_me_bg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/selector_opendoor.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/selector_opendoor.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/round_shape.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-xxhdpi/round_shape.xml"
+    }
+]

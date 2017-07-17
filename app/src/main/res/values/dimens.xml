@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_h20">20dp</dimen>
+    <dimen name="text_h18">18dp</dimen>
+    <dimen name="text_h16">16dp</dimen>
+    <dimen name="text_h14">14dp</dimen>
+    <dimen name="text_h12">12dp</dimen>
+    <dimen name="text_h10">10dp</dimen>
+    <dimen name="text_h8">8dp</dimen>
+    
+    
+     <!-- 时间选择器：滚轮行高 -->
+    <dimen name="wheel_line_split_height">30dp</dimen>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_e7d69aeb45e3d31b719f9537543eaa0dd4c202c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/libs/umeng-analytics-v5.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5d503ec571e2e98d972209afa203f94d11882c15">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/umeng-analytics-v5.5.3_86235574de55d2ecd5684985aa652dba6a05d683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/libs/locSDK_3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="590d32bdf5bb37ee372a21696b8f7853b224e31f">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/locSDK_3.3_d7a4e3999b379adea85b3d51323519b484c6acad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_87e6fadcb4d3867e5c2187844ef339fa820ea2e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/libs/easemobchat_2.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d5ea8f463fced733202db17caac615da2d83de9">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/easemobchat_2.1.9_829d8a9a1c126ec3303f8dda5b773c500032a07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_265b55fba26f57ccae800a4d94041eaf933cf698.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/picasso-2.4.0_2151614bae79fcfd58421541a1d55076b7f7bb30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/code/exo/app/libs/baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="/Users/dzc/que/code/exo/app/build/intermediates/pre-dexed/debug/baidumapapi_v3_2_0_68a8f231b31a0e794945f158dcfa01e5a3d0c2fa.jar" />
+    </item>
+
+</items>

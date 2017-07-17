@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/atom_flight_segmented_button_left_selector.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-hdpi/atom_flight_segmented_button_left_selector.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/atom_flight_segmented_button_right_selector.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/drawable-hdpi/atom_flight_segmented_button_right_selector.xml"
+    }
+]

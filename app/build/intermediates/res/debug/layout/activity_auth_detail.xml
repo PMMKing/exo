@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/t_bg">
+
+    <LinearLayout
+        android:padding="15dp"
+        android:background="@drawable/send_bg01"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:textSize="18dp"
+                android:textColor="@color/common_color_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/tv_name" />
+
+            <TextView
+                android:textSize="18dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@color/common_color_white"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:id="@+id/tv_phone" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_marginTop="15dp"
+            android:textSize="22dp"
+            android:textColor="@color/common_color_orange"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1周" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="16dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="选择小区:" />
+
+        <TextView
+            android:clickable="true"
+            android:background="@drawable/selector"
+            android:layout_marginLeft="5dp"
+            android:padding="5dp"
+            android:id="@+id/tv_community"
+            android:textSize="16dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textSize="16dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="授权时间:" />
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:entries="@array/spingarr" />
+
+    </LinearLayout>
+    <TextView
+        android:textSize="18dp"
+        android:textColor="@color/bg_gray"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_height="wrap_content"
+        android:text="如授权时限超过24小时，请联系相应物业公司备案审核"/>
+
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        style="@style/t_btn"
+        android:id="@+id/btn_send"
+        android:layout_width="match_parent"
+        android:textSize="16dp"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_height="wrap_content"
+        android:text="申请授权" />
+
+</LinearLayout>
+<!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/activity_auth_detail.xml -->

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spingarr">
+        <item>30分钟</item>
+        <item>1小时</item>
+        <item>3小时</item>
+        <item>12小时</item>
+        <item>24小时</item>
+    </string-array>
+
+
+</resources>

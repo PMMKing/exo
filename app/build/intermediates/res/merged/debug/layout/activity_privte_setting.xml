@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    xmlns:crysecontrol="http://schemas.android.com/apk/res-auto"
+    android:background="@color/t_bg">
+
+    <com.haolb.client.view.CircleImageView
+        android:id="@+id/iv_avatar"
+        android:layout_gravity="center_horizontal"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/default_avatar"
+        crysecontrol:border_color="@color/common_color_white"
+        crysecontrol:border_thickness="2dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@drawable/selector"
+        android:padding="16dp">
+        <TextView
+            android:textSize="16dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="真实姓名:" />
+        <EditText
+            android:id="@+id/et_nickname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/common_color_black"
+            android:background="@drawable/transparent"
+            android:hint="必填" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="20dp"
+        android:background="@color/common_color_white"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:layout_marginBottom="60dp"
+        android:padding="16dp">
+        <TextView
+            android:textSize="16dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="我的小区:" />
+        <TextView
+            android:id="@+id/tv_community"
+            android:textSize="16dp"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="选填" />
+    </LinearLayout>
+
+    <Button
+        style="@style/t_btn"
+        android:id="@+id/btn_ok"
+        android:layout_width="match_parent"
+        android:textSize="18dp"
+        android:layout_margin="10dp"
+        android:layout_height="wrap_content"
+        android:text="确定" />
+
+</LinearLayout>

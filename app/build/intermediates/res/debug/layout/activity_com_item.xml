@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/t_bg">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/iamge_defcommunity"
+            android:layout_marginLeft="10dp"
+            android:layout_width="30dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_height="30dp"
+            android:src="@drawable/icon_plot" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:textSize="14dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="恢复苑小区-2号楼-903"
+                android:id="@+id/text1" />
+            <TextView
+                android:textSize="12dp"
+                android:textColor="@color/common_color_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="北京-海淀区"
+                android:id="@+id/text2" />
+
+        </LinearLayout>
+
+        <TextView
+            android:textSize="16dp"
+            android:textColor="@color/common_color_greed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:text="已认证"
+            android:id="@+id/text3" />
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/activity_com_item.xml -->

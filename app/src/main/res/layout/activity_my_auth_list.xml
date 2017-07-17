@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/t_bg">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/atom_flight_special_rg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#1BA8BA"
+            android:orientation="horizontal"
+            android:padding="10dp">
+            <RadioButton
+                android:id="@+id/atom_flight_rb_dom"
+                style="@style/atom_flight_special_TabLeft"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="发出授权"
+                android:checked="false"/>
+            <RadioButton
+                android:id="@+id/atom_flight_rb_inter"
+                style="@style/atom_flight_special_TabRight"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="-1dp"
+                android:layout_weight="1"
+                android:text="获取授权"/>
+
+        </RadioGroup>
+    </LinearLayout>
+    <ListView
+        android:id="@+id/listSend"
+        android:background="@color/common_color_white"
+        android:layout_width="match_parent"
+        android:dividerHeight="0dp"
+        android:divider="@null"
+        android:layout_height="match_parent" />
+    <ListView
+        android:id="@+id/listRes"
+        android:background="@color/common_color_white"
+        android:layout_width="match_parent"
+        android:dividerHeight="0dp"
+        android:divider="@null"
+        android:layout_height="match_parent" />
+</LinearLayout>

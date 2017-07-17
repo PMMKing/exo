@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#E0E0E0"
+        android:paddingBottom="2dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="2dp"
+        android:textColor="#8a99ac"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical"
+        android:padding="7dp">
+
+        <ImageView
+            android:id="@+id/image_header"
+            android:layout_width="40dp"
+            android:layout_height="40dp"  />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="10dp">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:textSize="18dp"
+                android:textColor="@color/common_color_black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="张三" />
+
+            <TextView
+                android:id="@+id/tv_community"
+                android:textSize="16dp"
+                android:textColor="@color/common_color_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1581150804" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_fuck"
+            android:text="邀请"
+            android:textSize="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            style="@style/t_btn" />
+    </LinearLayout>
+</LinearLayout>

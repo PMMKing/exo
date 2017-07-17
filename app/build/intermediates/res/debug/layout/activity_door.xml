@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/common_color_white"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="@color/t_bg"
+        android:layout_height="100dp">
+
+        <LinearLayout
+            android:id="@+id/ll_auto"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/selector2"
+            android:visibility="gone"
+            android:layout_height="match_parent">
+
+            <CheckBox
+                android:id="@+id/checkbox_auto"
+                android:layout_width="50dp"
+                android:button="@null"
+                android:layout_height="50dp"
+                android:background="@drawable/selector_checkbox" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:text="自动开锁"
+                android:textSize="14dp"
+                android:textColor="@color/common_color_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="1dp"
+            android:visibility="gone"
+            android:background="#ccc"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:id="@+id/ll_auth"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:background="@drawable/selector2"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/selector_auth" />
+
+            <TextView
+                android:layout_marginTop="5dp"
+                android:text="访问授权"
+                android:textSize="14dp"
+                android:textColor="@color/common_color_gray"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:background="#ddd"
+        android:layout_height="1dp" />
+
+    <TextView
+        android:id="@+id/tv_gps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="定位中..."
+        android:padding="10dp"
+        android:textSize="16dp"
+        android:textColor="@color/common_color_white"
+        android:background="#33334C" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="@color/common_color_white"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+
+
+        <ImageView
+            android:focusable="true"
+            android:clickable="true"
+            android:id="@+id/image_open"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/selector_opendoor" />
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/activity_door.xml -->

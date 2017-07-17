@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/t_bg">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:clickable="true"
+
+        android:layout_marginTop="40dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/logo_uidemo" />
+
+
+        <TextView
+            android:textSize="17dp"
+            android:layout_marginTop="@dimen/text_h20"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="好乐帮1.0"
+            android:id="@+id/tv_ver" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="17dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:visibility="gone"
+        android:padding="10dp"
+        android:id="@+id/ll_xy">
+
+        <TextView
+            android:textSize="17dp"
+            android:layout_marginLeft="17dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="用户协议" />
+
+        <ImageView
+
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@drawable/icon_domo" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="17dp"
+        android:background="@color/common_color_white"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:padding="10dp"
+        android:id="@+id/ll_tk">
+
+        <TextView
+            android:textSize="17dp"
+            android:layout_marginLeft="17dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="服务协议" />
+
+        <ImageView
+
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@drawable/icon_domo" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="17dp"
+        android:background="@color/common_color_white"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/selector"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:padding="10dp"
+        android:id="@+id/ll_update">
+
+        <TextView
+            android:textSize="17dp"
+            android:layout_marginLeft="17dp"
+            android:textColor="@color/common_color_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="软件更新" />
+
+        <TextView
+            android:textSize="18dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/common_color_gray"
+            android:layout_width="0dp"
+            android:gravity="right"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_height="wrap_content"
+            android:text="已是最新版本"
+            android:id="@+id/tv_update" />
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <TextView
+        android:textSize="16dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/common_color_gray"
+        android:layout_width="fill_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="北京乐邦网景科技有限公司" />
+
+    <TextView
+        android:textSize="12dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="@color/common_color_gray"
+        android:layout_width="fill_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Copyright © 2015 All Rights Reserved"
+        android:paddingBottom="10dp" />
+</LinearLayout>

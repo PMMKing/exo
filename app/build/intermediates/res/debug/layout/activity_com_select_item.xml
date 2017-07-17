@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center_vertical"
+    android:padding="10dp"
+    android:background="@drawable/selector">
+
+    <TextView
+        android:textSize="20dp"
+        android:textColor="@color/common_color_black"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:layout_height="wrap_content"
+        android:text="恢复苑小区"
+        android:id="@+id/text1" />
+
+    <ImageView
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:src="@drawable/icon_domo" />
+
+</LinearLayout><!-- From: file:/D:/tracy/work/pro/haolb_2/app/src/main/res/layout/activity_com_select_item.xml -->

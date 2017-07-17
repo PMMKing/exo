@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">好乐帮</string>
+    <string name="share_content">指尖一按轻松到家，社区公告尽在掌握，好友来访再也不必繁琐登记啦！下载链接: http://dwz.cn/1JON8C</string>
+    <string name="app_ip">www.halobang.com</string>
+    <string name="app_com">北京乐邦网景科技有限公司</string>
+    <string name="sure">确定</string>
+    <string name="nextstep">下一步</string>
+    <string name="notice">提示信息</string>
+    <string name="state_loading_failed">加载失败，请重试</string>
+    <string name="state_loading">努力加载中...;</string>
+    <string name="finish">完成</string>
+    <string name="must_fill">必填</string>
+    <string name="retry">重试</string>
+    <string name="uc_sendagain_seconds">%1$d 秒后重发</string>
+    <string name="can_not_be_empty">%1$s不能为空</string>
+    <string name="notice_phone_title">拨打电话</string>
+    <!-- usercenter -->
+    <string name="uc_phone_error">您输入的手机号码有误，请重新输入</string>
+    <string name="uc_username">账号</string>
+    <string name="uc_usernamehint">输入我们给您提供的账号</string>
+    <string name="uc_password">密码</string>
+    <string name="uc_pwdhint">输入我们给您提供的密码</string>
+    <string name="uc_login">登录</string>
+    <string name="login_code">验证码</string>
+    <string name="share_message">请选择分享方式</string>
+    <string name="username_pwd_error">密码不能为空</string>
+    <string name="phone_error">账号不能为空</string>
+    <string name="update_hint">更新信息</string>
+    <string name="update_ok">马上更新</string>
+    <string name="dialog_no">暂不更新</string>
+    <string name="select_point">选择地点</string>
+
+    <!-- net -->
+    <string name="net_service_error">服务暂不可用，请稍候重试！</string>
+    <string name="net_network_error">网络错误，请检查网络设置！</string>
+    <string name="network_failed">网络连接失败。\n请检查一下：网络是否通畅？</string>
+    <string name="misc_title_upgrade">软件更新提示</string>
+    <string name="misc_have_upgrade">更新提示</string>
+    <string name="misc_upgrade_address">地址%1$d:</string>
+    <string name="download_start">继续下载</string>
+    <string name="download_pause">暂停下载</string>
+    <string name="download_cancle">取消下载</string>
+    <string name="setup">安装</string>
+    <string name="upgrade">在线升级</string>
+    <string name="download_upgrade">下载更新</string>
+    <string name="download">立即下载</string>
+    <string name="download_finished">已下载</string>
+    <string name="no_more_notice">知道了，不再提示</string>
+    <string name="download_failure">软件升级失败</string>
+    <string name="no_more_support">我们将不再支持该版本，要继续使用，请下载使用最新版本</string>
+    <string name="change_phone">手机号：</string>
+    <string name="change_phone_hint">请输入手机号</string>
+    <string name="auth_code">验证码：</string>
+    <string name="auth_code_hint">请输入验证码</string>
+    <string name="repassword">确认密码:</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="new_password">新密码:</string>
+    <string name="new_password_hint">请输入新密码</string>
+    <string name="new_password_hint2">请再次输入密码</string>
+    
+    
+    <string name="name_order_list">订单列表</string>
+    <string name="name_message_list">我的消息</string>
+    <string name ="name_info">我的资料</string>
+    <string name="name_communit">我的社区</string>
+    <string name="name_accounts">我的账户</string>
+    <string name="name_setting">设置</string>
+    <string name="name_server">服务条款</string>
+    <string name="name_share">分享好友</string>
+    <string name="name_feedback">意见反馈</string>
+    <string name="name_about">关于我们</string>    <!-- 时间选择器日期 -->
+    <string-array name="time_picker_date">
+        <item>今天</item>
+        <item>明天</item>
+        <item>后天</item>
+    </string-array>
+
+</resources>

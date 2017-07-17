@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/color/botton_text_color.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/color/botton_text_color.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/color/em_main_botton_text_color.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/color/em_main_botton_text_color.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/color/atom_flight_tab_text_color.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/color/atom_flight_tab_text_color.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/color/botton_text_color2.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/color/botton_text_color2.xml"
+    }
+]

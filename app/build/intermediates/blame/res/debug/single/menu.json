@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/menu/delete_contact.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/menu/delete_contact.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/menu/context_contact_list.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/menu/context_contact_list.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/menu/remove_from_blacklist.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/menu/remove_from_blacklist.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/code/exo/app/build/intermediates/res/merged/debug/menu/delete_message.xml",
+        "source": "/Users/dzc/que/code/exo/app/src/main/res/menu/delete_message.xml"
+    }
+]

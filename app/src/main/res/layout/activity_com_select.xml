@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/t_bg">
+
+    <include
+        android:id="@+id/search_bar_view"
+        layout="@layout/z_search_bar_with_padding"/>
+
+    <ListView
+        android:id="@+id/list"
+        android:background="@color/common_color_white"
+        android:layout_width="match_parent"
+        android:dividerHeight="0.5dp"
+        android:divider="@color/t_bg"
+        android:layout_height="match_parent" />
+</LinearLayout>
