@@ -40,7 +40,7 @@ Thumbs.db
 /build
 
 local.properties
-jvl_android.iml
+exo.iml
 package-id.txt
 /captures
 ext-args.txt
